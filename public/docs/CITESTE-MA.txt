@@ -1,0 +1,14 @@
+Copiază aici documentele de pe site-ul vechi (WordPress → Media → Bibliotecă,
+sau din folderul wp-content/uploads pe server), cu exact aceste nume:
+
+  ANUNT-Identitate-vizuala.pdf
+  Metodologie_concurs-plan-afaceri_ID-308377.pdf
+  Anexe.rar
+  Lista-PA-etapa-1.pdf
+  Lista-PA-admise-etapa-1.xlsx
+  Lista-PA-etapa-2-1.pdf
+  Lista-PA-admise-pt-finantare.pdf
+  Lista-PA-rezerva.pdf
+  Metodologie-selectie-GT.pdf
+
+Ele vor fi disponibile la adresa /docs/<nume-fișier> (link-urile din articole sunt deja făcute).
